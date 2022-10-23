@@ -1,11 +1,12 @@
 import streamlit as st
+import constants
 import streamlit.components.v1 as components
 
 st.title('TSP')
 st.markdown("Three different ways on getting solutions por the Travelling Salesman Problem, applying **Simplex, Ant Colony and Genetic algorithm**")
 # embed streamlit docs in a streamlit app
 st.subheader("Simplex")
-HtmlFile = open("/app/TSP/maps/exact.html", 'r', encoding='utf-8')
+HtmlFile = open(constants.path+"maps/exact.html", 'r', encoding='utf-8')
 source_code = HtmlFile.read()
 components.html(source_code,height=400)
 
