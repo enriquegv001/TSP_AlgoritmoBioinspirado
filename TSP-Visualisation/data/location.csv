@@ -1,0 +1,17 @@
+id,lat,lon,altMeters,nodeName,nodeType,popupText,leafletIconPrefix,leafletIconType,leafletColor,leafletIconText,cesiumIconType,cesiumColor,cesiumIconText,elevMeters
+0,25.65059,-100.28897,0,Inicio,Inicio,Inicio,glyphicon,home,red,0,pin,red,0,None
+1,25.63801,-100.31387,0,Punto 1,Cliente,Punto 1,glyphicon,star,green,1,pin,green,1,None
+2,25.64679,-100.33404,0,Punto 2,Cliente,Punto 2,glyphicon,star,green,2,pin,green,2,None
+3,25.65204,-100.35882,0,Punto 3,Cliente,Punto 3,glyphicon,star,green,3,pin,green,3,None
+4,25.68167,-100.35348,0,Punto 4,Cliente,Punto 4,glyphicon,star,green,4,pin,green,4,None
+5,25.67761,-100.28071,0,Punto 5,Cliente,Punto 5,glyphicon,star,green,5,pin,green,5,None
+6,25.77465,-100.11398,0,Punto 6,Cliente,Punto 6,glyphicon,star,green,6,pin,green,6,None
+7,25.66551,-100.31667,0,Punto 7,Cliente,Punto 7,glyphicon,star,green,7,pin,green,7,None
+8,25.65759,-100.38921,0,Punto 8,Cliente,Punto 8,glyphicon,star,green,8,pin,green,8,None
+9,25.6156,-100.27413,0,Punto 9,Cliente,Punto 9,glyphicon,star,green,9,pin,green,9,None
+10,25.57506,-100.24781,0,Punto 10,Cliente,Punto 10,glyphicon,star,green,10,pin,green,10,None
+11,25.71916,-100.21778,0,Punto 11,Cliente,Punto 11,glyphicon,star,green,11,pin,green,11,None
+12,25.69156,-100.24565,0,Punto 12,Cliente,Punto 12,glyphicon,star,green,12,pin,green,12,None
+13,25.66463,-100.31072,0,Punto 13,Cliente,Punto 13,glyphicon,star,green,13,pin,green,13,None
+14,25.6753,-100.36271,0,Punto 14,Cliente,Punto 14,glyphicon,star,green,14,pin,green,14,None
+15,25.75986,-100.36673,0,Punto 15,Cliente,Punto 15,glyphicon,star,green,15,pin,green,15,None
