@@ -5,7 +5,7 @@ st.title('TSP')
 st.markdown("Three different ways on getting solutions por the Travelling Salesman Problem, applying **Simplex, Ant Colony and Genetic algorithm**")
 # embed streamlit docs in a streamlit app
 st.subheader("Simplex")
-HtmlFile = open("cesar-xyz/bio-inspired/master/TSP/maps/exact.html", 'r', encoding='utf-8')
+HtmlFile = open("bio-inspired/TSP/maps/exact.html", 'r', encoding='utf-8')
 source_code = HtmlFile.read()
 components.html(source_code,height=400)
 
